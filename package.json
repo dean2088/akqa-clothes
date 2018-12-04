@@ -9,10 +9,6 @@
     "test:watch": "karma start --watch",
     "test": "karma start --single-run"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zhangkun-Jser/react-kit"
-  },
   "author": "zk",
   "license": "MIT",
   "devDependencies": {
