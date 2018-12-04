@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ef64c25-93b4-4699-a2b7-96858bc69a45" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ProductItem/ProductItem.js" afterPath="$PROJECT_DIR$/src/components/ProductItem/ProductItem.js" />
-    </list>
+    <list default="true" id="4ef64c25-93b4-4699-a2b7-96858bc69a45" name="Default" comment="" />
     <ignored path="akqa-clothes.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -309,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543874252448</updated>
       <workItem from="1543874254242" duration="87000" />
-      <workItem from="1543883487617" duration="266000" />
+      <workItem from="1543883487617" duration="356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353000" />
+    <option name="totallyTimeSpent" value="443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
